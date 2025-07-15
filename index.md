@@ -1,5 +1,3 @@
-layout: page
-title: "ソフトウェア工学 まとめ"
-permalink: /URL-PATH
+ソフトウェア工学 まとめ
 
 [講義のまとめはこちら](softwareEng2025.md)
